@@ -1,0 +1,41 @@
+Physics:
+Semester1:
+Ch-1:
+
+1) What are the two fundamental constituents of the universe?
+a) Matter and radiation    b)Heat and light    c) Molecule and atom    d) Electron and proton
+
+2) What is not a state of matter?
+a) Solid    b) Plasma    c) Gas    d) Neutron
+
+3) Nucleus of a molecule is made up of which fundamental constituents?
+a) Electron and proton    b) Electron an neutron    c) Proton and neutron    d) Only electron
+
+4) What is the fullform of ECG?
+a) Electron Cardiogram    b) Electron colour graph    c) Electro Cardiograph    d) Electric Cardiogram
+
+5) What is the fullform of NMR?
+a) Neutron Magnetic Resonance    b) Nuclear Magnetic Resonance    c) Neutrino Magentic Resonance    d) 	Nuclear Motion Resonance
+
+
+
+Semester2:
+Ch-1:
+
+1) Suppose your mass is 50 kg. Hw fast should you run so that your linear momentum becomes equal to that of a bicycle rider of 100 kg moving at a speed of 20 km/h?
+a) 40 m/s    b) 11.11 m/s    c) 20 km/h   d) 10 km/h
+
+2) A bus of 2400 kg is moving with a speed of 60 km/h on a straight road followed by a car of 1600 kg moving at 80 km/h. How fast is the centre of mass of the system moving?
+a) 70 km/h    b) 75 km/h    c) 72 km/h    d) 68 km/h
+
+3) A monkey sitting on a tree drops a 10 g seed at a crocodile below the tree, at rest. If the seed falls in 2 s time and becomes stationary, the momentum gained by crocodile (in addition to the seed) is ____ kg m/s.
+a) 0.196    b) -0.196    c) 19.6    d) -19.6
+
+4) In a match, the bowler throws a ball of 0.5 kg at 20 m/s. When the batsman hits, the ball returns in opposite direction at 30 m/s. If the time of contact of ball with the bat is 0.1 s, the force is ____ N.
+a) 250    b) 25    c) 50     d) 125
+
+5) A boy drops 4 stones of different masses at different times from a high building. At a moment, if stone of 500 g is at 8th floor, 400 g at 6th floor, 1 kg at 3rd floor, and 600 g is at 1st floor, the centre of mass is at which floor?
+a) 7    b) 5    c) 3    d) 4
+
+
+

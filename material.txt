@@ -1,0 +1,139 @@
+Standard 11/12: Science
+
+Sem1:
+Physics: http://gujarat-education.gov.in/textbook/textbooks/physics_11-semester-1.htm
+Chemistry: http://gujarat-education.gov.in/textbook/textbooks/chemistry_11-semester-1.htm
+Maths: http://gujarat-education.gov.in/textbook/textbooks/mathematics_11-semester-1.htm
+Biology: http://gujarat-education.gov.in/textbook/Textbooks/Biology_11-Semester-1.htm
+
+Sem2:
+Physics: http://gujarat-education.gov.in/textbook/textbooks/physics_11-semester-2.htm
+Chemistry: http://gujarat-education.gov.in/textbook/textbooks/chemistry_11-semester-2.htm
+Maths: http://gujarat-education.gov.in/textbook/textbooks/mathematics_11-semester-2.htm
+Biology: http://gujarat-education.gov.in/textbook/textbooks/biology_11-semester-2.htm
+
+Sem3:
+Physics: http://gujarat-education.gov.in/textbook/Textbooks/Physics_12-Semester-3.htm
+Chemistry: http://gujarat-education.gov.in/TextBook/Textbooks/Chemistry_12-Semester-3.htm
+Maths: http://gujarat-education.gov.in/textbook/Textbooks/Mathematics_12-Semester-3.htm
+Biology: http://gujarat-education.gov.in/TextBook/Textbooks/Biology_12-Semester-3.htm
+
+Sem4:
+Physics: http://gujarat-education.gov.in/textbook/Textbooks/Physics_12-Semester-4.htm
+Chemistry: http://gujarat-education.gov.in/textbook/Textbooks/Chemistry_12-Semester-4.htm
+Maths: http://gujarat-education.gov.in/textbook/Textbooks/Mathematics_12-Semester-4.htm
+Biology: http://gujarat-education.gov.in/textbook/Textbooks/Biology_12-Semester-4.htm
+
+computer studies:
+
+
+english: http://gujarat-education.gov.in/TextBook/Portal/News/51_1_Std12_EngMed_ComputerStudies_Opt.pdf
+gujarati: http://gujarat-education.gov.in/TextBook/Portal/News/52_1_Std12_GujMed_ComputerStudies_Opt.pdf
+
+
+Standard 10:
+Maths: http://gujarat-education.gov.in/textbook/textbooks/mathematics-10.htm
+Science: http://gujarat-education.gov.in/textbook/textbooks/science-10.htm
+Computer (Guj): http://gujarat-education.gov.in/TextBook/Portal/News/50_1_Std10_GujMed_ComputerStudies_Opt.pdf
+Computer (Eng): http://gujarat-education.gov.in/TextBook/Portal/News/49_1_Std10_EngMed_ComputerStudies_Opt.pdf
+Sanskrit (Guj): http://gujarat-education.gov.in/TextBook/Portal/News/55_1_Std10_GujMed_Sanskrit_Opt.pdf
+English (Guj): https://drive.google.com/file/d/0BxN_zOmTUurAdndrZ2tJUkxXLW8/view
+English (Eng): https://drive.google.com/file/d/0BxN_zOmTUurANnVNY3FJU0M0clU/view
+Gujarati (Guj): https://drive.google.com/file/d/0BxN_zOmTUurAU0ltSE9IZ0JIdkk/view
+Hindi: https://drive.google.com/file/d/0BxN_zOmTUurAcjRSN09Ec0k0a0U/view
+SS: https://drive.google.com/file/d/1QBUa9gLW7OXtRbRREpZbcQ046z9FCVY7/view
+
+Standard 11/12 Commerce and Arts:
+http://gujaratboard.in/TextBooks/Std11Commerce
+http://gujarat-education.gov.in/textbook/Textbooks/new-syllabus/std12.htm
+
+
+
+MCQ's:
+Maths sem1:
+1.)Which of the following is a statement?
+	a.)x is positive. 	b.) -1 is negative.	c.)Stand up.	d.)Where are you?
+2.)The negation of the satement, '3 is odd or 3 is prime' is...
+	a.)3 is not odd and 3 is not a prime.	b.)3 is not odd or 3 is not a prime.
+	c.)3 is odd and 3 is not a prime.		d.)3 is not odd and 3 is a prime.
+3.)The negation of 'for all x, p' is...
+	a.)there exists x, ~p.		b.)for all x, ~p
+	c.)~p			d.)p
+4.)p V q is false,when
+	a.)p and q are true.		b.)p and q are false.
+	c.)p is true and q is false.	d.)p is false and q is true.
+5.)p ^ q is true,when
+	a.)p and q are true.		b.)p and q are false.
+	c.)p is true and q is false.	d.)p is false and q is true.
+
+Biology sem1:
+1.)Scientist who gave classification based on five kingdom.
+	a.)Linnaeus	b.)Whittkar
+	c.)Aristotal		d.)Shusrut
+2.)Group of organisms have common ensaster.
+	a.)Order		b.)Family
+	c.)Species		d.)Genus
+3.)Scientific name of a modern man
+	a.)Homo			b.)Homo erractus
+	c.)Homo sapiens sapiens	d.)Homo sapiens
+4.)In living organisms measure of free energy in entropy remains...
+	a.)Decrease	b.)Balanced
+	c.)Increase	d.)Increase or Decrease
+5.)By whom continuetity is maintained from generation to generation in living organisms?
+	a.)DNA		b.)RNA
+	c.)Organel		d.)Cells
+
+Biology sem2:
+1.)Root is...
+	a.)Positively phototropic	b.)Positively geotropic
+	c.)Negatively hydrotropic	d.)None of this
+2.)Root pocket is found in whivh of the following plants?
+	a.)Pandanus	b.)Pistia
+	c.)Maize		d.)Radish
+3.)Example of fusiform tap root is...
+	a.)Radish		b.)Beet
+	c.)Carrot		d.)Sweet potato
+4.)Function of prop root is...
+	a.)Reproduction	b.)Climbing
+	c.)Support		d.)Food storage
+5.)Which of the following plants is an incomplete parasite?
+	a.)Rhizophora	b.)Tinospora
+	c.)Loranthus	d.)Cuscuta
+
+Chemistry sem1:
+1.) Which form of classification is not correct for matter on the basis of chemical characteristics?
+	a.)Mixture		b.)Gas
+	c.)Volume		d.)Solid
+2.)Which of the following units is a derived unit?
+	a.)Density		b.)A and C
+	c.)Volume		d.)Time
+3.)What is the SI unit of mass of the matter?
+	a.)kilogram	b.)gram
+	c.)milligram	d.)mole
+4.)What is called the mass of the matter in unit volume?
+	a.)Density		b.)Volume
+	c.)Weight		d.)Pressure
+5.)With which reference there is no importance of Dalton's law?
+	a.)Isotope		b.)Isobar
+	c.)Isoosmotic	d.)Isothermic
+
+Chemistry sem2:
+1.)Mention the relationship between bond order and stability of a compound?
+	a.)Directly proportion 		b.)Inversely proportional
+	c.)Equal			d.)Opposite
+2.)Which from the following is the magnetic property of oxygen molecule on the basis of valence bond theory?
+	a.)Diamagnetic		b.)Paramagnetic
+	c.)Ferromagnetic		d.)Antiferromagnetic
+3.)Which from the following is the magnetic property of oxygen molecule on the basis of molecular orbital theory?
+	a.)Diamagnetic		b.)Paramagnetic
+	c.)Ferromagnetic		d.)Antiferromagnetic
+4.)Who presented the molecular orbital theory?
+	a.)Linus Pauling	b.)van der Waals
+	c.)Lewis		d.)Mulliken
+5.)Who presented the valence bond theory?
+	a.)Linus Pauling	b.)van der Waals
+	c.)Mulliken	d.)Heitler and London
+
+
+
+
