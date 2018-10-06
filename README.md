@@ -11,7 +11,7 @@ The main idea is to fund the incentives of the students using the CSR (Corporate
 
 1.) The urban students who use this get quality education and are motivated to perform better and better due to the incentives they get, either in the form of vouchers, books, scholarships or even digital cash (as per the deal with a specific company) based on their scores.
 
-2.) The company which is a part of the deal can use it's CSR effectively in the education of under-privileged children. Also, the comapnies can do branding and increase it's outreach in rural areas. As an example, a supposed tie-up with Paytm can convince rural people to use Paytm, thus increasing it's outreach in rural areas with the branding done on this website.
+2.) The company which is a part of the deal can use it's CSR effectively in the education of under-privileged children. Also, the companies can do branding and increase it's outreach in rural areas. As an example, a supposed tie-up with Paytm can convince rural people to use Paytm, thus increasing it's outreach in rural areas with the branding done on this website.
 
 Thus, this website can help private companies create a social impact by inducing the necessary motivation in rural students and thereby improving the overall education in rural areas.
 
