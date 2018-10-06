@@ -24,6 +24,6 @@ As a basic demo model, we have implemented the app with following functionalitie
 4) Every user's total points, in whose accordance, he/she would be rewarded the incentives.
  
  Further improvements to the model:
-  > Timestamp in submissions to check regularity of students in the form of a streak, and thus awarding those who study regularly.
-  > Timeouts in the questions according to difficulty.
-  > Contact schools in rural areas and explicitly give login credentials to students so as to avoid muliple entries by same student,           teachers using the app just for incentives, etc.
+ 1) Timestamp in submissions to check regularity of students in the form of a streak, and thus awarding those who study regularly.
+ 2) Timeouts in the questions according to difficulty.
+ 3) Contact schools in rural areas and explicitly give login credentials to students so as to avoid muliple entries by same student,         teachers using the app just for incentives, etc.
