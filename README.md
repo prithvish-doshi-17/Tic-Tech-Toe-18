@@ -18,10 +18,10 @@ Thus, this website can help private companies create a social impact by inducing
 
 EXECUTION:
 As a basic demo model, we have implemented the app with following functionalities:
- > Links to chapter-wise content for classes 8-12.
- > Chapter-wise pool of questions of 3 difficulty levels, namely, Easy, Moderate and Tough with respectively varying points scored for        each correct answer, for all subjects of all classes. A set of questions is randomly selected from a large pool, thus providing a          variety to every user each time. Though the points are awarded only for the first time, thereby removing duplicacy of a user for some      particular content.
- > The user can also select to answer mixed questions of varying difficulties.
- > Every user's total points, in whose accordance, he/she would be rewarded the incentives.
+1) Links to chapter-wise content for classes 8-12.
+2) Chapter-wise pool of questions of 3 difficulty levels, namely, Easy, Moderate and Tough with respectively varying points scored for      each correct answer, for all subjects of all classes. A set of questions is randomly selected from a large pool, thus providing a        variety to every user each time. Though the points are awarded only for the first time, thereby removing duplicacy of a user for some    particular content.
+3) The user can also select to answer mixed questions of varying difficulties.
+4) Every user's total points, in whose accordance, he/she would be rewarded the incentives.
  
  Further improvements to the model:
   > Timestamp in submissions to check regularity of students in the form of a streak, and thus awarding those who study regularly.
