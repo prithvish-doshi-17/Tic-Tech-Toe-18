@@ -1,1 +1,5 @@
-INSERT INTO `questions`(`Std`, `Subject`, `Chapter`, `Level`, `Sr.No`, `Question`, `OpA`, `OpB`, `OpC`, `OpD`, `ans`) VALUES ([11],[Physics],[1],[1],[1],[What are the two fundamental constituents of the universe?],[Matter and radiation],[Heat and light],[Molecule and atom],[Electron and proton],[A])
+INSERT INTO `questions`(`Std`, `Subject`, `Chapter`, `Level`, `Sr.No`, `Question`, `OpA`, `OpB`, `OpC`, `OpD`, `ans`) VALUES ([11],[Chemistry],[],[],[],[],[],[],[],[],[])
+INSERT INTO `questions`(`Std`, `Subject`, `Chapter`, `Level`, `Sr.No`, `Question`, `OpA`, `OpB`, `OpC`, `OpD`, `ans`) VALUES ([11],[Chemistry],[],[],[],[],[],[],[],[],[])
+INSERT INTO `questions`(`Std`, `Subject`, `Chapter`, `Level`, `Sr.No`, `Question`, `OpA`, `OpB`, `OpC`, `OpD`, `ans`) VALUES ([11],[Chemistry],[],[],[],[],[],[],[],[],[])
+INSERT INTO `questions`(`Std`, `Subject`, `Chapter`, `Level`, `Sr.No`, `Question`, `OpA`, `OpB`, `OpC`, `OpD`, `ans`) VALUES ([11],[Chemistry],[],[],[],[],[],[],[],[],[])
+INSERT INTO `questions`(`Std`, `Subject`, `Chapter`, `Level`, `Sr.No`, `Question`, `OpA`, `OpB`, `OpC`, `OpD`, `ans`) VALUES ([11],[Chemistry],[],[],[],[],[],[],[],[],[])
