@@ -7,3 +7,26 @@ hr {
 .container {
   padding: 40px;
 }
+
+.correct {
+  border: 1px solid green;
+  background-color: #83f442;
+}
+
+.incorrect {
+  border: 1px solid red;
+  background-color: #f45f41;
+}
+
+.row-quiz {
+  margin-top: 100px;
+}
+
+.submit-quiz {
+  margin: 150px;
+}
+
+.que-content {
+  position: relative;
+  padding-left: 100px;
+}
